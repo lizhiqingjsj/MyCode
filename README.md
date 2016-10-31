@@ -1,2 +1,8 @@
 # MyCode
-我自己的练习
+public class HelloWorld
+{
+  Public static void main(String args[])
+  {
+    Sysout.out.println("HelloWorld,Welcome JAVA study!");
+  }
+}
